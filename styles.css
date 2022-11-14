@@ -14,6 +14,7 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+/* Container */
 .container {
     position: absolute;
     top: 50%;
@@ -30,6 +31,7 @@ body {
     padding: 5px;
     border-radius: 4px;
 }
+
 
 .container input {
     width: 95%;
@@ -48,6 +50,7 @@ body {
     font-size: x-large;
 }
 
+/* Responsive design */
 @media (max-width: 640px) {
     .container {
         position: absolute;
